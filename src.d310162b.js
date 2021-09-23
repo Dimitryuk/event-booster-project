@@ -44,4 +44,4 @@ var t;!function(e,n){"object"==typeof exports&&"object"==typeof module?module.ex
 },{"./refs":"VyiV"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss");var e=o(require("./js/loader"));require("./js/scroll"),require("./js/timer/takeTimeAndInstallationTimer"),require("./js/positionBTN");var r=o(require("./js/refs")),t=require("./js/pagination.js");function o(e){return e&&e.__esModule?e:{default:e}}require("./js/team-members__modal");const a=document.querySelector(".back_to_top");function n(){localStorage.removeItem("keyword"),localStorage.removeItem("country"),localStorage.removeItem("page")}document.addEventListener("DOMContentLoaded",e.default),t.pagination.on("afterMove",t.onPaginationBarPush),r.default.logo.addEventListener("click",n);
 },{"./sass/main.scss":"clu1","./js/loader":"vQE2","./js/scroll":"N8YO","./js/timer/takeTimeAndInstallationTimer":"YpOO","./js/positionBTN":"ySS0","./js/refs":"VyiV","./js/pagination.js":"o8lo","./js/team-members__modal":"wbWD"}]},{},["Focm"], null)
-//# sourceMappingURL=/team-attraction-project/src.81a2f29f.js.map
+//# sourceMappingURL=/team-attraction-project/src.d310162b.js.map
